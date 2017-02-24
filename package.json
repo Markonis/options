@@ -1,0 +1,23 @@
+{
+  "name": "@markonis/options",
+  "version": "0.0.1",
+  "description": "A small utility useful for passing in multiple named parameters to a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Params",
+    "Utility"
+  ],
+  "author": "Marko Pavlovic",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  }
+}
